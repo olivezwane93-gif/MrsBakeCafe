@@ -1,4 +1,6 @@
 Mrs Bake Cafe Meal Suggestion App
+The purpose of the application is to provide some coniveince to a customer. The application allows the user to select meals based on the time of day. There are specific foods for different times of the day thats are easy to read and eye catching. The application needs to offer dietry options and included a detailed list of ingredients. The user needs to be able to customize their order should thre be an ingredient they are allergic to or dont like. It needs to also have a reset option to clear the selection if an incorrect option has beebn selected. The application needs to be user friendly and easy to follow instructions and quick to respond..If there are eroors, it should be able to provide feedback on those errors and some guidance to rectify the errors. 
+
 package com.example.mrsbakecafe
 
 import android.R.attr.end
