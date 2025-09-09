@@ -82,7 +82,7 @@ class MainActivity : ComponentActivity() {
 
                        }
                    ) {
-                       Text(text="Rest")
+                       Text(text="Reset")
                    }
                }
 
